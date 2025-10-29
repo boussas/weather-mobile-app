@@ -10,8 +10,8 @@ This app provides weather data and city search capabilities, powered by the Open
   * **Current Location Detection:** Fetches weather for the user's current geographical location (requires permission).
   * **Current Weather:** Displays temperature, "feels like" temperature, humidity, pressure, wind speed, wind direction, sunrise, and sunset times.
   * **5-Day Forecast:** Shows an aggregated daily forecast for the next five days, including average temperature and cloud conditions.
-  * **City Search:** A convenient **bottom sheet** interface for searching cities globally with debounced input for efficient querying.
-
+  * **City Search:** A convenient interface for searching cities globally.
+  * **Data Persistence:** Saves the last selected city to quickly load data on the next launch.
 -----
 
 ## 🛠️ Technology Stack
