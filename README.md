@@ -116,7 +116,7 @@ The project follows the standard Expo Router file-based routing structure, organ
 │   └── weather.types.ts    # TypeScript interfaces for weather data structures
 └── utils                   # Utility functions (UI helpers)
 ```
-🎯 **Future Enhancements and Adjustments**
+# 🎯 **Future Enhancements and Adjustments**
 
 In order to further improve this project, there are still a few remaining tasks to complete:
 
