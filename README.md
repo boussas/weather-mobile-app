@@ -116,3 +116,14 @@ The project follows the standard Expo Router file-based routing structure, organ
 │   └── weather.types.ts    # TypeScript interfaces for weather data structures
 └── utils                   # Utility functions (UI helpers)
 ```
+🎯 **Future Enhancements and Adjustments**
+
+In order to further improve this project, there are still a few remaining tasks to complete:
+
+- [ ] **Responsiveness Enhancements:** Improve layout and design adaptability across different devices and screen sizes.
+- [ ] **Bug Fixes:** Address minor issues and optimizations.
+- [ ] **Dynamic Backgrounds:** Implement dynamic changes to the background image or gradient based on the current weather condition (e.g., sunny, rainy, cloudy) or time of day (day/night).
+- [ ] **Hourly Forecast:** Extend the forecast view to include detailed hourly predictions for the current day.
+- [ ] **Unit Switching:** Allow users to switch between Celsius (°C), Fahrenheit (°F), and kilometers per hour (km/h) / miles per hour (mph).
+- [ ] **Loading/Skeleton States:** Add a visual loading indicator or skeleton view to improve the user experience while fetching data.
+
