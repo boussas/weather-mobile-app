@@ -4,6 +4,13 @@ A mobile weather application built using **React Native** and **Expo**.
 This app provides weather data and city search capabilities, powered by the OpenWeatherMap API.
 
 -----
+# 📱 App Screenshots
+<img src="https://github.com/user-attachments/assets/fa5cad82-61e9-4a4f-beb8-14dbbd56eb4b" style="width:20%;" />
+<img src="https://github.com/user-attachments/assets/f024d9d9-6529-436c-9e6a-3b66a4343514" style="width:20%;" />
+<img src="https://github.com/user-attachments/assets/45d6cf30-faf1-4daa-925a-df46e38bc1df" style="width:20%;" />
+
+-----
+
 
 ## ✨ Features
 
